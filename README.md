@@ -73,15 +73,30 @@ https://ademmiladi.vercel.app/
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MDadem&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📊 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDadem&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake:
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MDadem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
